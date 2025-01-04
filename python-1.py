@@ -30,3 +30,17 @@ print(type(y))
 x = "John"
 # is the same as
 x = 'John'
+# ------- Variable declearing------
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
+# illegal variables
+# 2myvar = "John"
+# my-var = "John"
+# my var = "John"
+myVariableName = "John"  #Camel Case
+MyVariableName = "John" #pascal case
+my_variable_name = "John" #snake case
